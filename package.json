@@ -1,5 +1,5 @@
 {
-  "name": "remote",
+  "name": "sentia.bs.remote",
   "version": "0.1.0",
   "scripts": {
     "clean": "bsb -clean-world",
