@@ -2,13 +2,13 @@
   "name": "bs-sentia-remote",
   "version": "0.1.0",
   "sources": [
-    "src",
-    "test"
+    {"dir":"src"},
+    {"dir":"test", "type": "dev"}
   ],
   "bs-dependencies" : [
       // add your bs-dependencies here 
   ],
   "bs-dev-dependencies": [
-    "bs-tape"
+    "bs-sentia-tape"
   ]
 }
